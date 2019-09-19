@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: url(rectangle.png);
+    background: url(rectangle.png) no-repeat;
     background-size: cover;
     max-width: 100%;
 }
